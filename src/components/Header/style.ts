@@ -9,8 +9,8 @@ export const Container = styled.View`
 `
 
 export const Logo = styled.Image`
-    width: 45;
-    height: 56;
+    width: 45px;
+    height: 56px;
 `
 export const BackButton = styled.TouchableOpacity`
     flex: 1;
